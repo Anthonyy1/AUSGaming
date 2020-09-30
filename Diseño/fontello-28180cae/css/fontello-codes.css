@@ -1,0 +1,27 @@
+
+.icon-headphones:before { content: '\e800'; } /* '' */
+.icon-th-list:before { content: '\e801'; } /* '' */
+.icon-th:before { content: '\e802'; } /* '' */
+.icon-camera:before { content: '\e803'; } /* '' */
+.icon-basket:before { content: '\e804'; } /* '' */
+.icon-home:before { content: '\e805'; } /* '' */
+.icon-laptop:before { content: '\e806'; } /* '' */
+.icon-desktop:before { content: '\e807'; } /* '' */
+.icon-tablet:before { content: '\e808'; } /* '' */
+.icon-gift:before { content: '\e809'; } /* '' */
+.icon-basket-1:before { content: '\e80a'; } /* '' */
+.icon-search:before { content: '\e80b'; } /* '' */
+.icon-gamepad:before { content: '\f11b'; } /* '' */
+.icon-apple:before { content: '\f179'; } /* '' */
+.icon-box:before { content: '\f187'; } /* '' */
+.icon-building-filled:before { content: '\f1ad'; } /* '' */
+.icon-cc-visa:before { content: '\f1f0'; } /* '' */
+.icon-cc-mastercard:before { content: '\f1f1'; } /* '' */
+.icon-cc-discover:before { content: '\f1f2'; } /* '' */
+.icon-cc-amex:before { content: '\f1f3'; } /* '' */
+.icon-cc-paypal:before { content: '\f1f4'; } /* '' */
+.icon-cc-stripe:before { content: '\f1f5'; } /* '' */
+.icon-trash:before { content: '\f1f8'; } /* '' */
+.icon-cart-plus:before { content: '\f217'; } /* '' */
+.icon-facebook-official:before { content: '\f230'; } /* '' */
+.icon-server:before { content: '\f233'; } /* '' */

@@ -1,0 +1,48 @@
+.registro{
+    width: 500px;
+    background: white;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+.registro h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.datos{
+    width: 100%;
+    background: #BEC2C4;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid white;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+.registro p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 50px;
+}
+.registro a{
+    color: white;
+    text-decoration: none;
+}
+.registro a:hover{
+    color: white;
+    text-decoration: underline;
+}
+.regist{
+    width: 100%;
+    background: white;
+    border: grey;
+    padding: 12px;
+    color: black;
+    margin: 16px 0;
+    font-size: 20px;
+
+}

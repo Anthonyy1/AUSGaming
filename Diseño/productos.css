@@ -1,0 +1,17 @@
+.card-body{
+    text-align: center;
+    border: 2px black;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#productos article{
+    margin: 10px;
+}
+#productos .card{
+    width: 100%;
+    max-width: 280px;
+}
